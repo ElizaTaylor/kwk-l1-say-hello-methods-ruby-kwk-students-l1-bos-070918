@@ -5,5 +5,4 @@ def say_hello(your_name, my_name)
 end 
 
 
-say_hello("Nick","Eliza")
-say_hello("hanah","Eliza")
+say_hello("ruby programer")
